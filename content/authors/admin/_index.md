@@ -14,7 +14,7 @@ role: Graduate Student at University of Illinois at Chicago
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Chicago
-  url: ""
+  url: "https://cs.uic.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning and Natural Language Processing.
@@ -22,15 +22,14 @@ bio: My research interests include Machine Learning and Natural Language Process
 interests:
 - Machine Learning
 - Natural Language Processing
-- 
 
 education:
   courses:
   - course: Master of Science in Computer Science
-    institution: University of Illinois at Chicago
+    institution: University of Illinois at Chicago, U.S.A.
     year: Expected December 2020
   - course: Bachelor of Technology in Electronics and Communication Enginnering 
-    institution: Jawaharlal Nehru Technological University 
+    institution: Jawaharlal Nehru Technological University, India. 
     year: 2013
 
 # Social/Academic Networking
@@ -43,18 +42,15 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/kondaparthi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dkondaparthi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
