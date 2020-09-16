@@ -65,7 +65,7 @@ user_groups:
 
 I am a graduate student of Computer Science at University of Illinois at Chicago. My research interests include Machine Learning and Natural Language Processing specifically around building robuts language models that can withstand adversarial attacks. 
 
-Prior to my graduate studies, I have worked for little more than 5 years at DXC Technology India Pvt Ltd(formerly Computer Sciences Corporation) helping a major insurance client in their digital transformation via managing and deploying applications on Microsoft SharePoint. I also have some experience on buliding search spiders for effective information retrieval from external websites.
+Prior to my graduate studies, I have worked for little more than 5 years at DXC Technology India Pvt Ltd(formerly Computer Sciences Corporation) helping a major insurance client in their digital transformation. I also have some experience on buliding search spiders for effective information retrieval from external websites.
 
-I also enjoy biking and running exploring neighborhoods of Chicago. 
+I enjoy biking and running exploring neighborhoods of Chicago. 
 
