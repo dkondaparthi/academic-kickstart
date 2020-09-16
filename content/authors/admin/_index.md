@@ -22,6 +22,7 @@ bio: My research interests include Machine Learning and Natural Language Process
 interests:
 - Machine Learning
 - Natural Language Processing
+- Computer Vision
 
 education:
   courses:
