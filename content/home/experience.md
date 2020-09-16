@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Assistant"
+  company = "College of Business, University of Illinois at Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Chicago"
+  date_start = "2017-05-13"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Managing and creating new applications on College of Business Administration SharePoint instance.
+  * Leading migration of College of Business SharePoint Farm from on-premise to SharePoint Online.
+  * Automating Offer Letter generation process using Microsoft Flows.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Application Developer"
+  company = "DXC Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hyderabad"
+  date_start = "2013-09-24"
+  date_end = "2018-11-09"
+  description = """
+  Responsibilities include:
+  
+  * Worked with major insurance client as part of their digital transformation program rewriting their digital footprint using Microsoft SharePoint.
+  * Designed and Implemented custom search functionality on external web applications using Autonomy IDOL Search Engine for effective information retrieval.
+  * Deployed information governance solution across organization to be complaint with EU GDPR regulation using SharePoint 2016 and AvePoint.
+  * Created personalized news results feature using for intranet portal using SharePoint for effective information dissemination.
+  * Managed enhancements to nearly 30 external web applications, intranet and nearly 3000 Collaboration site collections deployed on multiple SharePoint farms.
+  * Led a team of 5 dedicated and smart colleagues for 18 months while managing delivery expectations with client.
+  """
 
 +++
