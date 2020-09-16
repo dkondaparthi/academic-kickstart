@@ -33,6 +33,22 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Summer Researcher"
+  company = "Natural Language Processing Lab, UIC"
+  company_url = ""
+  location = "Hyderabad"
+  date_start = "2020-06-01"
+  date_end = "2020-08-21"
+  description = """
+  Responsibilities include:
+  
+  * Worked with Dr. Natalie Parde at Natural Language Processing Lab on modelling trustworthiness of news articles and social media posts of every pandemic from past 100 years. 
+  * Involved in mining, annotating the news and social media posts and inter annotation agreement meetings.
+  """
+
+
+
+[[experience]]
   title = "Application Developer"
   company = "DXC Technology"
   company_url = ""
