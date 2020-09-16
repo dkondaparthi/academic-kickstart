@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "College of Business, University of Illinois at Chicago"
   company_url = ""
   location = "Chicago"
-  date_start = "2017-05-13"
+  date_start = "2019-05-13"
   date_end = ""
   description = """
   Responsibilities include:
